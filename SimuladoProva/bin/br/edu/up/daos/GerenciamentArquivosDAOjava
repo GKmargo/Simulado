@@ -1,4 +1,4 @@
-import java.io.*;
+package br.edu.up.daos;
 
 public class GerenciamentoArquivosDAO {
 }
